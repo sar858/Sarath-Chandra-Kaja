@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Vertex Explorer",
+  "description": "A comprehensive AI workspace leveraging the latest Gemini models for multimodal chat, high-fidelity image and video generation, and real-time audio interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
